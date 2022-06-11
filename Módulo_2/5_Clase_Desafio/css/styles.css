@@ -1,0 +1,13 @@
+header {
+  background-color: aliceblue;
+}
+
+#foto-de-perfil {
+  width: 200px;
+  height: 200px;
+  margin-left: 43%;
+}
+
+h2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
